@@ -11,3 +11,68 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.content{
+  border: 1px solid gray;
+}
+
+.pizzanav{
+  background-color: rgb(128, 25, 25);
+}
+
+.navtext .nav-link{
+  color: white;
+}
+
+.navtext .nav-link:hover{
+  color: #000;
+}
+
+.carouselhight{
+  width: 100%;
+  height: 100%;
+}
+
+.carouselhight img{
+  width: 100%;
+  height: 750px;
+}
+
+.pizzacarousel button{
+ height: 450px;
+ 
+}
+
+.pizzacarousel{
+  height: 500px;
+  
+}
+
+.imglef{
+  width: 100%;
+  height: 90%;
+}
+
+.footer{
+  height: 50px;
+}
+
+.footercolor{
+  color: #fff;
+  background-color: rgb(128, 25, 25);
+  
+
+}
+
+.crd{
+  width: 18rem;
+  
+}
+
+.colmd{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
