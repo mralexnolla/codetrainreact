@@ -1,0 +1,51 @@
+
+
+img{
+    height: 40px;
+    width: 100px;
+}
+
+.tourimg img{
+    height: 300px;
+    width: 430px;
+    
+}
+
+.cardwrap{
+    padding: 20px;
+    background-color: rgb(216, 202, 230);
+}
+
+.card img{
+    height: 200px;
+}
+
+.bgfoot{
+    background-color: rgb(32, 32, 120);
+}
+
+.h3color{
+    color: orange;
+}
+
+.pclor{
+    color: yellow;
+    font-size: 25px;
+}
+
+.cardbg{
+    background-color: rgb(216, 202, 230);
+}
+
+.flags{
+    position: relative;
+    left: 60px;
+}
+
+.msymb{
+    position: relative;
+    right: 40px;
+    padding: 50px;
+    
+    
+}
