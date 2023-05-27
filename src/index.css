@@ -1,0 +1,26 @@
+.user-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.user-card {
+  width: 25%;
+  background-color: #e2b5ed5c;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px;
+}
+
+.user-fun-card{
+  width: 25%;
+  background-color: #eddbb5d7;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px;
+}
+
+.user-card h3 {
+  margin: 8px 0;
+}
