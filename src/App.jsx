@@ -1,3 +1,4 @@
+import UserForm from "./component/UserForm"
 
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
   return (
     <div>
       Redux toolkit
+      <UserForm/>
     </div>
   )
 }
